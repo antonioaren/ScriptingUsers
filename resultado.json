@@ -1,0 +1,24 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Juan Domingez",
+            "dni": "44323567F",
+            "correo": "hola@gmail.co"
+        },
+        {
+            "nombre": "Pedro Morales",
+            "dni": "45254263J",
+            "correo": "quetal@ghotmail.co"
+        },
+        {
+            "nombre": "Borja Paque",
+            "dni": "44352678U",
+            "correo": "bien@msn.co"
+        },
+        {
+            "nombre": "Pepito de los palotes",
+            "dni": "43324567F",
+            "correo": "adios@chatroulete.co"
+        }
+    ]
+}
